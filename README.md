@@ -16,7 +16,14 @@ Forecasting electricity prices from load and renewable generation (Python, sciki
 Fare prediction with XGBoost, deployed as a Flask web app.
 
 ## Tools
-SQL (PostgreSQL) · Python (pandas, NumPy, scikit-learn) · Tableau Public · Excel · Git/GitHub
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346)
+![pandas](https://img.shields.io/badge/pandas-150458?logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 
 ## Currently
 Completing the IBM Data Analyst Professional Certificate.
