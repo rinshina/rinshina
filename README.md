@@ -1,6 +1,6 @@
 # Hi, I'm Febin 👋
 
-** Data Analyst | SQL (PostgreSQL) · Python · Tableau · Excel
+## Data Analyst | SQL (PostgreSQL) · Python · Tableau · Excel
 
 I analyse data and turn it into clear findings with numbers I can defend. MCA graduate with a full-stack (MERN) development background. Open to entry-level Data Analyst roles.
 
